@@ -1,0 +1,11 @@
+{
+    "name": "cms-git-based",
+    "main": "./app/worker.ts",
+    "compatibility_date": "2026-01-09",
+    "assets": {
+        "directory": "./dist/client"
+    },
+    "observability": {
+        "enabled": true
+    }
+}
